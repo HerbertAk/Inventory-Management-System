@@ -3,7 +3,7 @@
 # Inventory Management System for a Provision Store
 
 ## Student
-Name - <Herbert Ansah Akrofi>
+Name - < Herbert Ansah Akrofi>
 ID - <10923111>
 
 
