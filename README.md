@@ -2,6 +2,12 @@
 
 # Inventory Management System for a Provision Store
 
+## Student
+Name - <Herbert Ansah Akrofi>
+ID - <10923111>
+
+
+
 ## Introduction
 The Inventory Management System for a provision store is a Java application designed to aid store owners in efficiently managing their inventory, vendors, bills, issued goods, and other related tasks. This documentation provides an overview of the system's features and functionality.
 
